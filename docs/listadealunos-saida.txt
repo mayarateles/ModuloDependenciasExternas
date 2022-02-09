@@ -1,0 +1,48 @@
+================================
+ALUNOS DA Turma BANCO DE DADOS
+Total de alunos na turma: 12
+Alana Porto
+Ana Júlia Ramos
+Esther Rodrigues
+Lavínia Cunha
+Lavínia Lopes
+Letícia Cunha
+Luiz Miguel Azevedo
+Nathan Nascimento
+Natália Gomes
+Thales Farias
+Vitor Hugo Lima
+Yago Ramos
+================================
+ALUNOS DA Turma JAVA
+Total de alunos na turma: 11
+Alexandre Martins
+Ana Júlia Ramos
+Esther Rodrigues
+Lavínia Cunha
+Letícia Cunha
+Natália Gomes
+Pietra Martins
+Thales Farias
+Thomas Peixoto
+Vitor Hugo Lima
+Yago Ramos
+
+================================
+Alunos da Escola: 
+Total de alunos da escola: 15
+Yago Ramos
+Vitor Hugo Lima
+Thomas Peixoto
+Thales Farias
+Pietra Martins
+Natália Gomes
+Nathan Nascimento
+Luiz Miguel Azevedo
+Letícia Cunha
+Lavínia Lopes
+Lavínia Cunha
+Esther Rodrigues
+Ana Júlia Ramos
+Alexandre Martins
+Alana Porto
